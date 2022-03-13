@@ -1,6 +1,7 @@
 # sit725-2022-t1-prac1
 
 This is a basic web application.
+The application demonstrates basic change text function when the button is clicked
 
 ## To Run the application
 
